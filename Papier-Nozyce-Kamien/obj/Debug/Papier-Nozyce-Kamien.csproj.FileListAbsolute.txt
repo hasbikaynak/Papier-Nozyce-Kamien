@@ -1,0 +1,7 @@
+C:\Users\CEM\source\repos\Papier-Nozyce-Kamien\Papier-Nozyce-Kamien\obj\Debug\Papier-Nozyce-Kamien.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\Papier-Nozyce-Kamien\Papier-Nozyce-Kamien\obj\Debug\Papier-Nozyce-Kamien.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\Papier-Nozyce-Kamien\Papier-Nozyce-Kamien\bin\Debug\Papier-Nozyce-Kamien.exe.config
+C:\Users\CEM\source\repos\Papier-Nozyce-Kamien\Papier-Nozyce-Kamien\bin\Debug\Papier-Nozyce-Kamien.exe
+C:\Users\CEM\source\repos\Papier-Nozyce-Kamien\Papier-Nozyce-Kamien\bin\Debug\Papier-Nozyce-Kamien.pdb
+C:\Users\CEM\source\repos\Papier-Nozyce-Kamien\Papier-Nozyce-Kamien\obj\Debug\Papier-Nozyce-Kamien.exe
+C:\Users\CEM\source\repos\Papier-Nozyce-Kamien\Papier-Nozyce-Kamien\obj\Debug\Papier-Nozyce-Kamien.pdb
